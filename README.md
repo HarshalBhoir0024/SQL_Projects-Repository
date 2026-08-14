@@ -1,6 +1,8 @@
 SQL Projects Portfolio
+
 Welcome to my SQL Projects Repository.
 This repository contains a collection of SQL projects focused on data cleaning, exploratory data analysis, database querying, and business problem-solving. Each project demonstrates the use of SQL to extract meaningful insights from data and support data-driven decision-making.
+
 ________________________________________
 About This Repository
 This portfolio showcases my ability to:
@@ -10,6 +12,7 @@ This portfolio showcases my ability to:
 •	Analyze business performance metrics
 •	Design and manage databases
 •	Generate actionable insights from raw data
+
 ________________________________________
 Project Focus Areas
 Projects in this repository may include:
