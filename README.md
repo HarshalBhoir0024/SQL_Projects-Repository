@@ -16,6 +16,7 @@ Design and manage relational databases
 Create relationships between tables
 Use advanced SQL techniques
 Generate actionable business insights from data
+
 📊 Project Focus Areas
 
 Projects in this repository may include:
@@ -30,6 +31,8 @@ Projects in this repository may include:
 🗄️ Database Management
 🔎 Exploratory Data Analysis
 🛠️ Tools & Technologies
+
+
 SQL
 MySQL
 Relational Databases
@@ -42,6 +45,8 @@ Aggregate Functions
 GROUP BY & HAVING
 CASE Statements
 Data Filtering & Sorting
+
+
 📂 Repository Structure
 
 Each project is organized in its own folder:
@@ -61,7 +66,10 @@ SQL-Projects/
 │   └── Project Documentation
 │
 └── README.md
+
+
 📈 Key Skills Demonstrated
+
 Data Cleaning
 Data Transformation
 Database Design
@@ -76,6 +84,7 @@ KPI Analysis
 Business Intelligence Reporting
 Problem Solving Using SQL
 Data-Driven Decision Making
+
 🎯 Objective
 
 The purpose of this repository is to:
@@ -87,6 +96,8 @@ Build and manage relational databases
 Improve analytical and problem-solving skills
 Demonstrate practical SQL knowledge
 Build a strong Data Analytics portfolio
+
+
 🔄 SQL Analytics Workflow
 Raw Data
    ↓
@@ -109,7 +120,10 @@ Business Insights
 Decision Making
 📸 Project Documentation
 
+
 Detailed project descriptions, database structures, SQL scripts, query outputs, screenshots, and analysis results can be found within the individual project folders.
+
+
 
 👤 About Me
 
@@ -124,6 +138,8 @@ SQL • MySQL • Python • Excel • Power BI • Tableau • Pandas • NumPy
 📬 Connect With Me
 LinkedIn: Harshal Bhoir on LinkedIn
 GitHub: HarshalBhoir0024 on GitHub
+
+
 ⭐ Feedback
 
 If you find these projects useful, feel free to explore the repository, review the SQL queries, and share your feedback.
@@ -137,6 +153,7 @@ Welcome to my SQL Projects Repository.
 
 This repository contains a collection of SQL projects focused on data cleaning, exploratory data analysis, database querying, and business problem-solving. Each project demonstrates the use of SQL to extract meaningful insights from data and support data-driven decision-making.
 
+
 🚀 About This Repository
 
 This portfolio showcases my ability to:
@@ -147,6 +164,8 @@ Perform exploratory data analysis (EDA)
 Analyze business performance metrics
 Design and manage databases
 Generate actionable insights from raw data
+
+
 📊 Project Focus Areas
 
 Projects in this repository may include:
@@ -171,6 +190,8 @@ Window Functions
 Aggregate Functions
 Primary & Foreign Keys
 GROUP BY & HAVING
+
+
 📂 Repository Structure
 
 Each project is organized in its own folder:
@@ -193,6 +214,8 @@ Aggregate Analysis
 Business Intelligence Reporting
 Database Management
 Problem Solving Using SQL
+
+
 🎯 Objective
 
 The purpose of this repository is to:
@@ -213,11 +236,12 @@ Harshal Gorakh Bhoir
 Information Technology Graduate | Aspiring Data Analyst
 
 Core Skills:
+
 SQL • MySQL • Python • Excel • Power BI • Tableau • Data Analytics
 
 📬 Connect With Me
-LinkedIn: Harshal Bhoir
+LinkedIn:(https://www.linkedin.com/in/harshal-bhoir-7729a8237/)
 
-GitHub: HarshalBhoir0024
+GitHub: (https://github.com/HarshalBhoir0024)
 
 ⭐ Feel free to explore the projects, review the SQL queries, and share your feedback.
